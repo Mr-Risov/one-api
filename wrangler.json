@@ -1,0 +1,10 @@
+{
+  "name": "one-api-web",
+  "pages_build_output_dir": "./web/build",
+  "build": {
+    "command": "npm install --prefix ./web/default && npm run build --prefix ./web/default",
+    "watch_dir": "./web"
+  },
+  "compatibility_date": "2024-03-01"
+}
+
