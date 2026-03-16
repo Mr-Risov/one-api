@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "one-api-web",
+  "name": "one-api",
   "compatibility_date": "2024-03-01",
   "assets": {
     "directory": "./web/build"
