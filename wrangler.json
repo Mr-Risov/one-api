@@ -3,8 +3,7 @@
   "name": "one-api-frontend",
   "compatibility_date": "2024-03-01",
   "assets": {
-    "directory": "./web/build",
-    "binding": "ASSETS"
+    "directory": "./web/build"
   },
   "observability": {
     "enabled": true
